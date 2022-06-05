@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'decimal 10' 'decimal 16'
+printf "%x\n" $DECIMAL
